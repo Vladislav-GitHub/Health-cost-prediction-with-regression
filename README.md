@@ -34,7 +34,7 @@ All information about age, sex,	bmi,	children, etc. for each candidate are store
 
 ## Demonstration on youtube
 For the CS50 final project you have to make a video showning your project,
-[My Final Project presentation](https://youtu.be/uQvthZBoY5I)
+[My Final Project presentation](https://youtu.be/GSGr8OECyPk)
 
 ## Documentation
 https://numpy.org/doc/
